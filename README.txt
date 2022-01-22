@@ -14,3 +14,11 @@ creation fich VIM  et ajout du fich index.html
 git add index.html
 git commit -m ""
 
+fusionner avec la br master
+se deplacer sur la vr maste
+git checkout master
+merger
+git marge newbr
+
+supprimer la newbr une fois merger
+git branch -d newbr
